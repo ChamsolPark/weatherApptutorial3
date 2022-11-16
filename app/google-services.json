@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838036076911",
+    "firebase_url": "https://weatherappapi-1285e-default-rtdb.firebaseio.com",
+    "project_id": "weatherappapi-1285e",
+    "storage_bucket": "weatherappapi-1285e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838036076911:android:4ebe5cd2b6b0e61fbf509a",
+        "android_client_info": {
+          "package_name": "com.example.weatherapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838036076911-n3csqb7o14fku8a0f3skuvqktajqrnbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYV9J9xqxdcpaWF6mcXsZfuwvZ_2oCDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838036076911-n3csqb7o14fku8a0f3skuvqktajqrnbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
